@@ -1,0 +1,10 @@
+{
+  "name": "marketplace-free-dogfood",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "node server.mjs 8792"
+  }
+}
